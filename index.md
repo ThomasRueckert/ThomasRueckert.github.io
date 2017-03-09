@@ -2,15 +2,17 @@
 
 You can use the [editor on GitHub](https://github.com/ThomasRueckert/) to see my github profile.
 
-- Bulleted
-- List
+My projects mainly consist of university related work:
 
-1. Numbered
-2. List
+- solutions to lectures
+- some practical courses
+- bachelors thesis
+- masters thesis
+- some smaller projects
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I am working as a software developer.
+At the moment i am php backend developer in the project [unifysell](https://github.com/unifysell).
+You can find my business on [facebook](https://www.facebook.com/thomasrueckertsoftwareentwicklung).
 
 ### Support or Contact
 
