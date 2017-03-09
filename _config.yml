@@ -1,4 +1,8 @@
 theme: jekyll-theme-hacker
 title: Thomas Rückert
-url: "https://thomasrueckert.github.io" # the base hostname & protocol for your site
-email: thomas.rueckert@s2010.tu-chemnitz.de
+url: "https://thomasrueckert.github.io"
+
+author:
+  name: 'Thomas Rückert'
+  github_username:  ThomasRueckert
+  email: thomas.rueckert@s2010.tu-chemnitz.de
