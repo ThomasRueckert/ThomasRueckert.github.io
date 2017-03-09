@@ -1,1 +1,4 @@
 theme: jekyll-theme-hacker
+title: Mercury
+url: "https://thomasrueckert.github.io" # the base hostname & protocol for your site
+email: thomas.rueckert@s2010.tu-chemnitz.de
