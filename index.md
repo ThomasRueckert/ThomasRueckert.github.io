@@ -18,6 +18,8 @@ My projects mainly consist of university related work:
 I am working as a software developer since 2011.
 At the moment i am php backend developer in the project [unifysell](https://github.com/unifysell).
 
+---
+
 #### Contact
 
 You can find my business on [facebook](https://www.facebook.com/thomasrueckertsoftwareentwicklung).
