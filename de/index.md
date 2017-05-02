@@ -19,6 +19,8 @@ Meine Projekte bestehen hauptsächlich aus Arbeiten die ich in meiner Studienzei
 Ich arbeite seit 2011 neben meinem Studium als selbständiger Softwareentwickler.
 Im Moment bin ich als PHP Backenddeveloper im Projekt [unifysell](https://github.com/unifysell) beschäftigt.
 
+---
+
 #### Kontakt
 
 Mein Unternehmen ist auf facebook zu finden: [facebook](https://www.facebook.com/thomasrueckertsoftwareentwicklung).
