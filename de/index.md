@@ -1,8 +1,8 @@
 [deutsch](https://thomasrueckert.github.io/de/) | [english](https://thomasrueckert.github.io/)
 
-## Willkommen auf meinen GitHub-Seiten
+## Willkommen auf meiner github.io-Seite
 
-Hier können Sie meine Github-Profil finden: [ThomasRueckert](https://github.com/ThomasRueckert/).
+Hier können Sie mein Github-Profil finden: [ThomasRueckert](https://github.com/ThomasRueckert/).
 
 ### Über mich
 
